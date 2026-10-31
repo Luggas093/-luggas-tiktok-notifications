@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luggas TikTok Notifications</title>
+    <style>
+        body {
+            background: #101014;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 80px 20px;
+        }
+        h1 { font-size: 36px; }
+        p { color: #bdbdc7; line-height: 1.7; }
+        a { color: #ff477e; margin: 12px; }
+        .box {
+            max-width: 650px;
+            margin: auto;
+            padding: 35px;
+            background: #1c1c24;
+            border-radius: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h1>Luggas TikTok Notifications</h1>
+        <p>
+            An automated notification service that informs
+            Discord community members whenever Luggas_093
+            publishes a new public TikTok video.
+        </p>
+        <p>
+            Stay updated and never miss a new video!
+        </p>
+        <hr>
+        <a href="terms.html">Terms of Service</a>
+        <a href="privacy.html">Privacy Policy</a>
+    </div>
+</body>
+</html>
